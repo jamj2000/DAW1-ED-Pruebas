@@ -25,4 +25,8 @@ __Pruebas unitarias y de integración__
 
 Pruebas funcionales con Selenium:
  
- - http://www.adictosaltrabajo.com/tutoriales/testing-funcional-con-selenium-en-jenkins/
+ - http://www.adictosaltrabajo.com/tutoriales/testing-funcional-con-selenium-en-jenkins/)
+
+### Otros
+
+ - [Pruebas en cpp](https://davidcapello.com/blog/cpp/repl-y-tests/
