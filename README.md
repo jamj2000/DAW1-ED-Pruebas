@@ -27,4 +27,4 @@ __Pruebas unitarias y de integración__
 
 ### Otros
 
- - [Pruebas en cpp](https://davidcapello.com/blog/cpp/repl-y-tests/
+ - [Pruebas en cpp](https://davidcapello.com/blog/cpp/repl-y-tests/)
